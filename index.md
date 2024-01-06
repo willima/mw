@@ -1,9 +1,3 @@
----
-title: {{ site.title }}
----
-
-# Home
-
 UNDER CONSTRUCTION
 
 ### Links
