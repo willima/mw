@@ -1,5 +1,5 @@
 ---
-title: site.title
+title: {{ site.title }}
 ---
 
 # Home
