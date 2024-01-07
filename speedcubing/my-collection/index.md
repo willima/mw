@@ -1,4 +1,6 @@
-# My Collection
+---
+title: My Collection
+---
 
 ![My Collection 2018/01/23](./Collection_20180123-1024x576.jpg)
 

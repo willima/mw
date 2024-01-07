@@ -1,0 +1,14 @@
+nav:
+- file: index.md
+- file: blog/index.md
+- file: projects/index.md
+- file: speedcubing/index.md
+  subnav:
+  - file: speedcubing/my-collection/index.md
+  - file: speedcubing/personal-bests/index.md
+  - file: speedcubing/3x3/index.md
+    subnav:
+    - title: OLL
+      file: speedcubing/3x3/oll/index.md
+    - title: PLL
+      file: speedcubing/3x3/pll/index.md

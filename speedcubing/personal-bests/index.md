@@ -1,4 +1,6 @@
-# Personal Bests
+---
+title: Personal Bests
+---
 
 UNDER CONSTRUCTION
 

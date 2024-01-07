@@ -1,0 +1,19 @@
+<ul>
+  {% for item in include.nav %}
+    {%- if item.file -%}
+      {%- assign page = site.pages | where: "path", item.file | first -%}
+    {%- else -%}
+      {%- assign page = escape -%}
+    {%- endif -%}
+    <li>
+      {%- if page -%}
+        <a href="{{ page.url }}">{{ item.title | default: page.title }}</a>
+      {%- else -%}
+        {{ item.title }}
+      {%- endif -%}
+      {% if item.subnav %}
+        {% include nav.html nav=item.subnav %}
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

@@ -1,4 +1,6 @@
-# 3×3 – OLL
+---
+title: 3x3 - OLL
+---
 
 ![oll](./OLLinfo.png)
 

@@ -1,4 +1,6 @@
-# 3×3
+---
+title: 3x3
+---
 
 UNDER CONSTRUCTION
 

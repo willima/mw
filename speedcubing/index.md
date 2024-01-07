@@ -1,4 +1,6 @@
-# Speedcubing
+---
+title: Speedcubing
+---
 
 I love speedcubing!
 
